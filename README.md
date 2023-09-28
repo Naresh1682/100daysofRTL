@@ -22,4 +22,14 @@ Day 19 -- FIFO RAM
 Day 20 -- Dual port Synchronous Ram 
 Day 21 -- 32bit ALU 
 Day 22 -- Pipeline Modelling
-Day 23 --**
+Day 23 -- Carry Look Ahead Adder
+Day 24 -- SR flipFlop
+Day 25 -- JK FlipFlop
+Day 26 -- D FlipFlop
+Day 27 -- T FlipFliop
+Day 28 -- Sequence Generator
+Day 29 -- Sequence Deductor
+Day 30 -- PRBS
+Day 31 -- Traffic Light Controller using FSM
+Day 32 -- Washing Machine Using FSM**
+Day 33
