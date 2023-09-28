@@ -31,5 +31,6 @@ Day 28 -- Sequence Generator
 Day 29 -- Sequence Deductor
 Day 30 -- PRBS
 Day 31 -- Traffic Light Controller using FSM
-Day 32 -- Washing Machine Using FSM**
-Day 33
+Day 32 -- Washing Machine Using FSM
+Day 33 -- Vending Machine
+Day 34 -- Even Parity**
